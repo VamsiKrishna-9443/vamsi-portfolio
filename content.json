@@ -1,0 +1,562 @@
+{
+  "CFG": {
+    "email": "vamsikrishna.pedapapa.05@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/vamsi-krishna-yadav/",
+    "github": "https://github.com/VamsiKrishna-9443",
+    "leetcode": "https://leetcode.com/u/VamsiKrishna_1906/",
+    "resumeUrl": "",
+    "roles": [
+      "Software Developer",
+      "Java Full Stack Developer",
+      "AI & ML Engineer"
+    ],
+    "video": "public/videos/hero-cars.mp4",
+    "poster": "public/images/hero-cars-poster.jpg"
+  },
+  "EXP": [
+    {
+      "role": "Java Backend Intern",
+      "org": "Chakrith IoT Labs Private Limited",
+      "when": "August 2026 – Present",
+      "sub": "IoT-based vehicle tracking and fleet management applications",
+      "pts": [
+        "Develop backend functionality and business logic with Java and Spring Boot.",
+        "Work with REST APIs and SQL/MySQL database operations.",
+        "Contribute to ongoing ZonePin backend development.",
+        "Test APIs for GTA and FleetConnect in Postman, checking request and response data, status codes and behavior.",
+        "Test web and mobile applications for functional, UI, API and data consistency issues.",
+        "Investigate backend, frontend and database inconsistencies, then validate fixes after changes.",
+        "Write bug reports with reproduction steps and expected versus actual results.",
+        "Use Git, GitHub, Maven, IntelliJ IDEA, VS Code and Docker basics."
+      ],
+      "note": "Described at a high level. No proprietary code, endpoints, credentials or customer data are shown, and work shared with teammates is not claimed as solely mine."
+    },
+    {
+      "role": "Software Development Intern",
+      "org": "Indian Space Research Organisation, ISRO SDSC SHAR",
+      "when": "September 2025 – October 2025",
+      "sub": "Sriharikota · Portal for Estimation, Evaluation and Reliability",
+      "pts": [
+        "Developed a web portal to estimate, evaluate and manage system reliability data.",
+        "Built the interface with HTML, CSS and JavaScript.",
+        "Wrote Java Spring Boot backend logic and REST endpoints.",
+        "Used JdbcTemplate/JDBC and SQL queries to store and retrieve data and generate reports.",
+        "Ran and tested the application on an isolated internal LAN without internet access.",
+        "Took part in development, testing and software documentation."
+      ],
+      "note": "This site is not an official ISRO publication, and no internal screenshots or data are included."
+    }
+  ],
+  "V": {
+    "1": "<svg viewBox=\"0 0 400 260\" role=\"img\" aria-label=\"Illustrative animation: a vehicle route is drawn, location points pulse, and data flows to a backend\"><path class=\"route\" pathLength=\"1\" d=\"M30 205C90 195 110 110 170 122S270 195 322 82S355 60 372 62\" fill=\"none\" stroke=\"#4cc9f0\" stroke-width=\"2.5\"/><g fill=\"#fff\"><circle cx=\"170\" cy=\"122\" r=\"4.5\"/><circle cx=\"322\" cy=\"82\" r=\"4.5\"/></g><circle cx=\"30\" cy=\"205\" r=\"6\" fill=\"#4cc9f0\"/><circle class=\"pl\" cx=\"372\" cy=\"62\" r=\"8\" fill=\"none\" stroke=\"#4cc9f0\" stroke-width=\"2\"/><circle class=\"pl d\" cx=\"170\" cy=\"122\" r=\"8\" fill=\"none\" stroke=\"#4cc9f0\" stroke-width=\"1.5\"/><path class=\"flow\" d=\"M372 74V176\" stroke=\"#4cc9f0\" stroke-width=\"2\" fill=\"none\"/><rect x=\"312\" y=\"178\" width=\"76\" height=\"44\" rx=\"6\" fill=\"#0c0e11\" stroke=\"#4cc9f0\"/><text x=\"350\" y=\"205\" fill=\"#f3f5f7\" font-size=\"13\" text-anchor=\"middle\" font-family=\"system-ui,sans-serif\">API · DB</text><circle class=\"mv\" r=\"5\" fill=\"#4cc9f0\"><animateMotion dur=\"6s\" repeatCount=\"indefinite\" path=\"M30 205C90 195 110 110 170 122S270 195 322 82S355 60 372 62\"/></circle></svg><small>Illustrative graphic, not a live tracker</small>",
+    "2": "<svg viewBox=\"0 0 400 260\" role=\"img\" aria-label=\"Illustrative animation: a scan passes over a solar cell grid and highlights two example regions\"><defs><linearGradient id=\"sg\"><stop offset=\"0\" stop-color=\"#4cc9f0\" stop-opacity=\"0\"/><stop offset=\"1\" stop-color=\"#4cc9f0\" stop-opacity=\".45\"/></linearGradient></defs><g fill=\"none\" stroke=\"#3a424d\" stroke-width=\"1.5\"><rect x=\"60\" y=\"40\" width=\"280\" height=\"160\" rx=\"4\"/><path d=\"M130 40v160M200 40v160M270 40v160M60 93h280M60 147h280\"/></g><rect class=\"scan\" x=\"60\" y=\"40\" width=\"26\" height=\"160\" fill=\"url(#sg)\"/><rect class=\"bx\" x=\"205\" y=\"98\" width=\"58\" height=\"46\" fill=\"rgba(76,201,240,.12)\" stroke=\"#4cc9f0\" stroke-width=\"2\" stroke-dasharray=\"5 4\"/><rect class=\"bx b2\" x=\"72\" y=\"150\" width=\"50\" height=\"40\" fill=\"rgba(76,201,240,.12)\" stroke=\"#4cc9f0\" stroke-width=\"2\" stroke-dasharray=\"5 4\"/><rect x=\"60\" y=\"216\" width=\"280\" height=\"4\" rx=\"2\" fill=\"#252a32\"/><rect class=\"pbar\" x=\"60\" y=\"216\" width=\"280\" height=\"4\" rx=\"2\" fill=\"#4cc9f0\"/></svg><small>Illustrative graphic, not a model result</small>",
+    "3": "<svg viewBox=\"0 0 400 260\" role=\"img\" aria-label=\"Animated diagram: browser interface to Spring Boot REST endpoints to JdbcTemplate to a SQL database\"><g stroke=\"#4cc9f0\" stroke-width=\"2\" fill=\"none\"><path class=\"route\" pathLength=\"1\" d=\"M200 60V85\"/><path class=\"route\" pathLength=\"1\" style=\"animation-delay:.9s\" d=\"M200 125V150\"/><path class=\"route\" pathLength=\"1\" style=\"animation-delay:1.5s\" d=\"M200 190V215\"/></g><g stroke=\"#4cc9f0\" stroke-width=\"1.5\"><rect class=\"nb\" x=\"110\" y=\"20\" width=\"180\" height=\"40\" rx=\"6\"/><rect class=\"nb\" style=\"animation-delay:.8s\" x=\"110\" y=\"85\" width=\"180\" height=\"40\" rx=\"6\"/><rect class=\"nb\" style=\"animation-delay:1.6s\" x=\"110\" y=\"150\" width=\"180\" height=\"40\" rx=\"6\"/><rect class=\"nb\" style=\"animation-delay:2.4s\" x=\"110\" y=\"215\" width=\"180\" height=\"32\" rx=\"6\"/></g><g fill=\"#f3f5f7\" font-family=\"system-ui,sans-serif\" font-size=\"14\" text-anchor=\"middle\"><text x=\"200\" y=\"45\">HTML · CSS · JavaScript</text><text x=\"200\" y=\"110\">Spring Boot REST endpoints</text><text x=\"200\" y=\"175\">JdbcTemplate / JDBC</text><text x=\"200\" y=\"236\">SQL database</text></g><circle class=\"mv\" r=\"4.5\" fill=\"#fff\"><animateMotion dur=\"3.2s\" repeatCount=\"indefinite\" path=\"M200 40V231\"/></circle></svg><small>Illustrative architecture</small>"
+  },
+  "PROJ": [
+    {
+      "id": 1,
+      "title": "Real-Time Vehicle Tracking Backend",
+      "cat": "Backend system",
+      "status": "In progress",
+      "year": "2026",
+      "sum": "A backend for receiving, storing and serving vehicle location and trip data through REST APIs.",
+      "problem": "Vehicle location and trip data has to be received, stored and served to client applications in a structured way.",
+      "sol": "Spring Boot REST APIs on top of a MySQL schema covering vehicles, devices and location records.",
+      "work": [
+        "Developing Spring Boot backend functionality",
+        "Designing the MySQL schema for vehicles, devices and location records",
+        "Building and working with REST APIs",
+        "Testing endpoints with Postman",
+        "Managing builds and dependencies with Maven"
+      ],
+      "tech": [
+        "Java",
+        "Spring Boot",
+        "Maven",
+        "REST APIs",
+        "MySQL",
+        "Postman",
+        "Git/GitHub"
+      ],
+      "gh": "",
+      "demo": "",
+      "note": "Still being built, so features are not described as complete."
+    },
+    {
+      "id": 2,
+      "title": "Solar Panel Defect Detection System",
+      "cat": "AI / computer vision",
+      "status": "Completed",
+      "year": "2025",
+      "sum": "An AI-based system that detects solar panel defects from electroluminescence images.",
+      "problem": "Defects in solar panels are hard to spot by eye in electroluminescence images.",
+      "sol": "A YOLOv8 detection workflow served through FastAPI, with a React interface for uploading images and viewing predictions.",
+      "work": [
+        "Implementing the YOLOv8-based defect detection workflow",
+        "Developing FastAPI endpoints for model inference",
+        "Building the React interface for image upload and prediction display",
+        "Connecting the frontend to the inference service"
+      ],
+      "tech": [
+        "Python",
+        "YOLOv8",
+        "OpenCV",
+        "FastAPI",
+        "React"
+      ],
+      "gh": "",
+      "demo": "",
+      "note": "No accuracy figures are shown, because none are verified here."
+    },
+    {
+      "id": 3,
+      "title": "ISRO Reliability Portal",
+      "cat": "Internship case study",
+      "status": "Internship project",
+      "year": "2025",
+      "sum": "A web portal to estimate, evaluate and manage system reliability data, built during my ISRO SDSC SHAR internship.",
+      "problem": "Reliability data needed one place to be estimated, evaluated, stored and reported on, inside an isolated internal network.",
+      "sol": "A browser interface calls Spring Boot REST endpoints, which use JdbcTemplate and SQL queries to store, retrieve and report data.",
+      "work": [
+        "Front end in HTML, CSS and JavaScript",
+        "Spring Boot backend logic and REST endpoints",
+        "JdbcTemplate/JDBC and SQL for storage, retrieval and reports",
+        "Testing on an isolated LAN and writing documentation"
+      ],
+      "tech": [
+        "Java",
+        "Spring Boot",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "JdbcTemplate/JDBC",
+        "SQL"
+      ],
+      "gh": "",
+      "demo": "",
+      "note": "Internal project: no public repository or demo exists, and no internal material is shown."
+    }
+  ],
+  "EDU": [
+    [
+      "SSC",
+      "Tiny Tots E.M. High School, Sullurpeta",
+      "2019–2020",
+      "99.3%"
+    ],
+    [
+      "Intermediate, MPC",
+      "Sri Prathiba Junior College, Sullurpeta",
+      "2020–2022",
+      "90.3%"
+    ],
+    [
+      "B.Tech, Computer Science and Engineering (AI & ML)",
+      "Sri Venkateswara College of Engineering, Tirupati",
+      "2022–2026",
+      "CGPA 8.6/10"
+    ]
+  ],
+  "CERT": [
+    "Prompt Design in Vertex AI",
+    "Cloud Speech API: 3 Ways",
+    "MongoDB Basics for Students",
+    "The Basics of Google Cloud Compute",
+    "ISRO SDSC SHAR Internship Certificate"
+  ],
+  "skills": [
+    {
+      "id": "java",
+      "name": "Java & fundamentals",
+      "label": "01 / LANGUAGE FOUNDATIONS",
+      "title": "A strong core. Room to grow.",
+      "description": "Java fundamentals and SQL underpin my backend work. I use DSA practice to develop a more deliberate approach to problem solving.",
+      "context": "Applied in backend development and problem solving",
+      "items": [
+        [
+          "Java",
+          "java"
+        ],
+        [
+          "Object-Oriented Programming",
+          ""
+        ],
+        [
+          "Classes & objects",
+          ""
+        ],
+        [
+          "Inheritance & polymorphism",
+          ""
+        ],
+        [
+          "Encapsulation & abstraction",
+          ""
+        ],
+        [
+          "Exception handling",
+          ""
+        ],
+        [
+          "Collections Framework",
+          ""
+        ],
+        [
+          "Generics",
+          ""
+        ],
+        [
+          "Streams & lambdas",
+          ""
+        ],
+        [
+          "File I/O",
+          ""
+        ],
+        [
+          "SQL",
+          "mysql"
+        ],
+        [
+          "DSA fundamentals",
+          ""
+        ]
+      ]
+    },
+    {
+      "id": "backend",
+      "name": "Backend",
+      "label": "02 / APPLICATION SYSTEMS",
+      "title": "From a request to a reliable response.",
+      "description": "Java and Spring Boot development across vehicle tracking, fleet management and a reliability-data portal.",
+      "context": "Used in internships and ongoing project work",
+      "items": [
+        [
+          "Spring Boot",
+          "spring"
+        ],
+        [
+          "REST APIs",
+          ""
+        ],
+        [
+          "HTTP methods & status codes",
+          ""
+        ],
+        [
+          "Request / response handling",
+          ""
+        ],
+        [
+          "JDBC & JdbcTemplate",
+          ""
+        ],
+        [
+          "Maven",
+          "maven"
+        ],
+        [
+          "MySQL & SQL queries",
+          "mysql"
+        ],
+        [
+          "Schema design",
+          ""
+        ],
+        [
+          "Postman API testing",
+          "postman"
+        ],
+        [
+          "Debugging & error handling",
+          ""
+        ],
+        [
+          "Git / GitHub",
+          "git"
+        ],
+        [
+          "Docker fundamentals",
+          "docker"
+        ]
+      ]
+    },
+    {
+      "id": "frontend",
+      "name": "Frontend",
+      "label": "03 / HUMAN INTERFACES",
+      "title": "Making the backend usable.",
+      "description": "Responsive browser interfaces and REST API integration. React powered the image-upload and prediction views in my solar panel project.",
+      "context": "HTML, CSS and JavaScript in internship work · React in an AI/ML project",
+      "items": [
+        [
+          "HTML5",
+          "html5"
+        ],
+        [
+          "CSS3",
+          "css3"
+        ],
+        [
+          "JavaScript",
+          "javascript"
+        ],
+        [
+          "Responsive web design",
+          ""
+        ],
+        [
+          "React",
+          "react"
+        ],
+        [
+          "REST API integration",
+          ""
+        ],
+        [
+          "Accessible UI foundations",
+          ""
+        ]
+      ]
+    },
+    {
+      "id": "tools",
+      "name": "Data & tools",
+      "label": "04 / DEVELOPMENT WORKFLOW",
+      "title": "Build. Test. Trace. Improve.",
+      "description": "The tools behind database operations, version control, API testing, bug reports and fix validation.",
+      "context": "Development tools · Docker at a foundational level",
+      "items": [
+        [
+          "MySQL",
+          "mysql"
+        ],
+        [
+          "SQL",
+          ""
+        ],
+        [
+          "JDBC",
+          ""
+        ],
+        [
+          "Git",
+          "git"
+        ],
+        [
+          "GitHub",
+          "github"
+        ],
+        [
+          "Maven",
+          "maven"
+        ],
+        [
+          "IntelliJ IDEA",
+          "intellij"
+        ],
+        [
+          "Visual Studio Code",
+          "vscode"
+        ],
+        [
+          "Postman",
+          "postman"
+        ],
+        [
+          "Docker fundamentals",
+          "docker"
+        ],
+        [
+          "Functional testing",
+          ""
+        ],
+        [
+          "Bug reporting & fix validation",
+          ""
+        ]
+      ]
+    },
+    {
+      "id": "ai",
+      "name": "AI & machine learning",
+      "label": "05 / COMPUTER VISION",
+      "title": "Turning images into useful signals.",
+      "description": "A project-led exploration of computer vision: detecting defects in solar panel electroluminescence images and bringing model inference into a web application.",
+      "context": "Used in the Solar Panel Defect Detection System",
+      "items": [
+        [
+          "Python",
+          "python"
+        ],
+        [
+          "Computer vision",
+          ""
+        ],
+        [
+          "YOLOv8",
+          ""
+        ],
+        [
+          "OpenCV",
+          "opencv"
+        ],
+        [
+          "Object detection",
+          ""
+        ],
+        [
+          "Image analysis",
+          ""
+        ],
+        [
+          "Model inference",
+          ""
+        ],
+        [
+          "FastAPI",
+          "fastapi"
+        ],
+        [
+          "Model API integration",
+          ""
+        ],
+        [
+          "React prediction views",
+          "react"
+        ],
+        [
+          "Solar panel defect detection",
+          ""
+        ]
+      ]
+    },
+    {
+      "id": "learning",
+      "name": "Currently learning",
+      "label": "06 / THE NEXT ITERATION",
+      "title": "Deliberately a work in progress.",
+      "description": "Developing familiarity with these technologies and concepts. They are learning goals, separate from my established project stack.",
+      "context": "Currently learning · separate from established project experience",
+      "items": [
+        [
+          "Java 17 / Java 21 concepts",
+          "java"
+        ],
+        [
+          "Concurrency & multithreading",
+          ""
+        ],
+        [
+          "Vite",
+          "vite"
+        ],
+        [
+          "Tailwind CSS",
+          "tailwind"
+        ],
+        [
+          "Node.js basics",
+          "nodejs"
+        ]
+      ]
+    }
+  ],
+  "education_copy": [
+    [
+      "01",
+      "Foundations",
+      "A beginning built on curiosity, consistent practice and a love of learning.",
+      "99.3",
+      "%"
+    ],
+    [
+      "02",
+      "Analytical thinking",
+      "Mathematics, physics and chemistry strengthened the logic behind the questions.",
+      "90.3",
+      "%"
+    ],
+    [
+      "03",
+      "Engineering direction",
+      "Computer science connected those foundations to software development and AI/ML projects.",
+      "8.6",
+      "/10"
+    ]
+  ],
+  "marquees": [
+    [
+      [
+        "Java",
+        "java"
+      ],
+      [
+        "Spring Boot",
+        "spring"
+      ],
+      [
+        "MySQL",
+        "mysql"
+      ],
+      [
+        "Python",
+        "python"
+      ],
+      [
+        "JavaScript",
+        "javascript"
+      ],
+      [
+        "HTML5",
+        "html5"
+      ],
+      [
+        "CSS3",
+        "css3"
+      ],
+      [
+        "React",
+        "react"
+      ]
+    ],
+    [
+      [
+        "FastAPI",
+        "fastapi"
+      ],
+      [
+        "OpenCV",
+        "opencv"
+      ],
+      [
+        "Git",
+        "git"
+      ],
+      [
+        "GitHub",
+        "github"
+      ],
+      [
+        "Maven",
+        "maven"
+      ],
+      [
+        "Postman",
+        "postman"
+      ],
+      [
+        "Docker",
+        "docker"
+      ],
+      [
+        "IntelliJ IDEA",
+        "intellij"
+      ],
+      [
+        "VS Code",
+        "vscode"
+      ]
+    ]
+  ]
+}
